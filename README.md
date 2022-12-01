@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicole
-- 👀 I’m interested in fitness
-- 🌱 I’m currently taking my first steps in learning software engineering
+- 👀 I’m interested in Front-End, UI, and UX
+- 🌱 I’m currently wrapping up a 13 week software engineering bootcamp
 - 💞️ I’m looking to collaborate on projects, apps, web development
 - 📫 How to reach me nicole.poulard@gmail.com
 
